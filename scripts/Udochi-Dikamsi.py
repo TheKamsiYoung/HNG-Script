@@ -1,4 +1,4 @@
-# This code outputs the HNG sentence for Stage 1
+# This code outputs the HNG sentence for Stage 2
 # Up Team-Sentry!
 
 def print_out_hng_sentence():
